@@ -22,7 +22,7 @@ This project uses the following libraries:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/A-A7med-i/Scraping.git
+git clone https://github.com/A-Ahmed-i/Scraping.git
 ```
 
 2. Install the required libraries:
